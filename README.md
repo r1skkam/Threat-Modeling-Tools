@@ -9,6 +9,12 @@
 
 # Threat Modeling Techniques/Methodologies
 
+| Threat Model | Purpose                                                                                 | Key Characteristics                                                                                 | Advantages                                                                          |
+| ------------ | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| STRIDE       | Categorize threats based on type of attack                                              | Spoofing, Tampering, Repudiation, Information disclosure, Denial of Service, Elevation of Privilege | Simple and straightforward approach for categorizing threats                        |
+| PASTA        | Consider the entire software development life cycle and entire application architecture | Process for Attack Simulation and Threat Analysis                                                   | Considers the complete software development life cycle and application architecture |
+| DREAD        | Prioritize security threats based on level of risk                                      | Damage, Reproducibility, Exploitability, Affected Users, Discoverability                            | Provides a simple and effective way to prioritize security risks                    |
+
 ## References/Sources:
 
 1. [Top Threat Modeling Methodologies &mdash; RiskOptics](https://reciprocity.com/blog/top-threat-modeling-methodologies/)
